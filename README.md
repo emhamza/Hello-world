@@ -20,46 +20,29 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 [Hello-World] <a name="about-project"></a>
 
 This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling.
 
-**[Hello-World]** is a...
-
 ## 🛠 Built With <a name="built-with"></a>
-HTML5
-CSS3
+-HTML5
+-CSS3
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Version Control</summary>
-  <ul>
-    <li><a href="https://github.com/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Visual Studio Code</summary>
-  <ul>
-    <li><a href="https://code.visualstudio.com/">Express.js</a></li>
-  </ul>
-</details>
+-HTML
+-CSS
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Used-for-understanding-Linters-configration]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,8 +93,6 @@ GitHub Pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Umair Hamza**
 
