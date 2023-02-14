@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-World] <a name="about-project"></a>
 
-This project is about linters configerations and ensuring that all linters checks pass
+This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling.
 
 **[Hello-World]** is a...
 
@@ -123,6 +123,11 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+-Visual Studio Code
+-Github Account
+-Git Bash
+-Node JS
+
 <!--
 Example command:
 
@@ -134,6 +139,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+Use git clone command or downloaded ZIP folder
 
 <!--
 Example commands:
@@ -147,6 +153,7 @@ Example commands:
 ### Install
 
 Install this project with:
+npm
 
 <!--
 Example command:
@@ -160,6 +167,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+live server or npm start
 
 <!--
 Example command:
@@ -172,6 +180,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+npm test
 
 <!--
 Example command:
@@ -184,7 +193,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
+GitHub Pages
 <!--
 Example:
 
@@ -203,9 +212,9 @@ Example:
 
 👤 **Umair Hamza**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/emhamza)
+- Twitter: [@twitterhandle](https://twitter.com/uhamzaz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/umair-hamza-a8262b261/)
 
 <!-- 👤 **Author2**
 
@@ -239,9 +248,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project then please follow me on Linkedin, Twitter and GitHub. Greetings!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -249,9 +256,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microvers for  this exercise!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
